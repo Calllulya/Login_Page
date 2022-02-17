@@ -1,0 +1,13 @@
+body {
+    background-color: #F2F3F4; 
+}  
+.form {
+    position: absolute;
+        top: 43%;
+        left: 43%; 
+}
+.text_2 {
+    position: absolute;
+        left: 35%; 
+    white-space: nowrap;
+}
